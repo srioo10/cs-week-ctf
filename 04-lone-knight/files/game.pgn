@@ -1,0 +1,11 @@
+[Event "The Wanderer"]
+[Site "?"]
+[Date "2026.10.03"]
+[Round "1"]
+[White "Knight"]
+[Black "King"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/8/8/5N2/8/8/K7 w - - 0 1"]
+
+1. Nh5 Kg8 2. Nf6+ Kh8 3. Ng4 Kg8 4. Ne3 Kh8 5. Nd5 Kg8 6. Nb4 Kh8 7. Na2 Kg8 8. Nc1 Kh8 9. Nd3 Kg8 10. Nc5 Kh8 11. Nb7 Kg8 12. Nd8 Kh8 13. Nc6 Kg8 14. Ne7+ Kh8 15. Ng6+ Kg8 16. Nf8 Kh8 17. Nd7 Kg8 18. Nb6 Kh8 19. Na4 Kg8 20. Nc3 Kh8 21. Ne4 Kg8 22. Nf2 Kh8 23. Nd1 *

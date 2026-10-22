@@ -1,0 +1,3 @@
+known plaintext : 434c55425f4b4e4f574e5f424c4f434b
+its ciphertext  : 9e59a0e65d23bdac711204027b10d51c
+encrypted flag  : 468d619d479fae7d257ed86ccc87868be39d08c1f9af06aeedce060b43f4106a
