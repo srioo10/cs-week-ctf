@@ -28,7 +28,6 @@ NN-challenge-name/
 | 10 | [Lost Original](10-lost-original/WRITEUP.md) | OSINT | 250 | 7 | Reverse image search on a disguised photo |
 | 11 | [Paper Trail](11-paper-trail/WRITEUP.md) | OSINT | 300 | 5 | Recovering an earlier PDF revision |
 
-Two web challenges, **Guest Pass** and **Forged Pass**, were also in the event. Their writeups are coming.
 
 Flags are in each writeup, so if you want to try a challenge cold, open only its `files/` folder first.
 
